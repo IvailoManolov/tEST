@@ -1,0 +1,19 @@
+In this game you can move a rocketship UP and DOWN and try to avoid all the
+asteroids and collect all diamonds flying towards you. You can also use the rocketship's 
+cannon to shoot projectiles by pressing SPACE and destroy incoming asteroids, 
+but be careful, you can also destroy diamonds this way! Be cautious with asteroids
+that are larger in size. Once a larger asteroid is destroyed, smaller asteroids from 
+the explosion will be flying in direction of your rocketship. The smaller the asteroid, 
+the faster it travels!
+
+When it comes to difficulty, as time passes, more and more asteroids will be on the
+way to your rocketship.
+
+You have only 3 lives, so take risks only when necessary. Hitting a larger asteroid
+means instant death!
+
+There are some cool planets in the background.
+
+Links to resources:
+https://indigoli.itch.io/pixel-planet-generator | for the planets
+
